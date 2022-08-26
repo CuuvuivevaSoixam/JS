@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+    <title>Bai tap tuan I</title>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        button{color: aqua;
+        background-color: black;
+        }
+    </style>
+</head>
+<body>
+    <h1> In4: Lương Anh Đức B19DCDT059</h1>
+    <div style = "width:33%;
+    height:70px;
+    border: 1px solid black;
+    background-color: aquamarine;
+    text-align: center;
+    float: left;">
+    <h3>Humidity(%)</h3></div>
+
+    <div style = "height:70px;
+    width:33.25%;
+    border: 1px solid black;
+    background-color: brown;
+    text-align: center;
+    float: left;">
+    <h3> Tempurate(oC)</h3></div>
+
+    <div style = "height:70px;
+    width:33.3%;
+    border: 1px solid rgb(0, 0, 12);
+    text-align: center;
+    float: left;
+    background-color:red;">
+    <h3>UV index </h3></div><br>
+
+    <div style = "width:33%;
+    height:70px;
+    border: 1px solid black;
+    background-color: aquamarine;
+    text-align: center;
+    float: left;">
+    <h3>1123</h3></div>
+
+    <div style = "height:70px;
+    width:33.3%;
+    border: 1px solid black;
+    background-color: brown;
+    text-align: center;
+    float: left;">
+    <h3> 2453 oC</h3></div>
+
+    <div style = "height:70px;
+    width:33.3%;
+    border: 1px solid black;
+    text-align: center;
+    float: left;
+    background-color: red;">
+    <h3> 64643</h3></div>
+
+    <div
+        style="
+        height: 80%;
+        width: 46%;
+        float:left;">
+        <img src="anh23.jpg" alt="alo">
+    </div>
+    <div style="border:1px solid yellowgreen;
+    height: 355px;
+    width: 53.3%;
+    float: left;
+    text-align: center;">
+        <button> ON</button>
+        <button> OFF</button>
+    </div>
+    <div style="border:1px solid green;
+    height: 355px;
+    width: 53.3%;
+    float: left;
+    text-align: center;">
+        <button onclick="window.location.href='https://www.youtube.com/channel/UCQUc6tjDQBCddTbjSD5vaGQ/videos'">ON</button>
+        <button> OFF</button>
+    </div>
+</body>
+</html>
